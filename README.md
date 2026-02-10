@@ -1,7 +1,7 @@
 # Federated-Manifolds
  | Label | Title  | Code | Model |Description | Others|
 | ------------- | ------------- |------------- | ------------- | ------------- | ------------- |
-|2020_NeurISP[paper](https://proceedings.neurips.cc/paper/2020/hash/47a658229eb2368a99f1d032c8848542-Abstract.html)|Federated principal component analysis |[code](https://www.github.com/andylamp/federated_pca) | | |
+|2020_NeurISP[paper](https://proceedings.neurips.cc/paper/2020/hash/47a658229eb2368a99f1d032c8848542-Abstract.html)|Federated principal component analysis |[code](https://www.github.com/andylamp/federated_pca) | | ![image](https://github.com/zhudafa/Federated-Manifolds/blob/main/20NeurISP.png)|
 |2020_ICML[paper](https://proceedings.mlr.press/v119/huang20e.html)|Communication-efficient distributed pca by riemannian optimization |[code] | | |
 |2021_NeurIPS[paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/1680e9fa7b4dd5d62ece800239bb53bd-Abstract.html)|Distributed principal component analysis with limited communication |[code] | | |
 |2022_Li_Ma[paper](https://arxiv.org/pdf/2206.05668) |Federated Learning on Riemannian Manifolds |[code] | ![image](https://github.com/zhudafa/Federated-Manifolds/blob/main/22lima1.png)|![image](https://github.com/zhudafa/Federated-Manifolds/blob/main/22lima.png) |
